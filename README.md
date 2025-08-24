@@ -33,7 +33,7 @@ A **Java Swing-based Student Grading System** that allows users to input student
 ## ▶ How to Run
 1. Compile the program:
    ```bash
-javac StudentgradeSystem.java
+   javac StudentgradeSystem.java
 
 🛠 Tech Stack
 
